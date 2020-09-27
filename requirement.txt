@@ -1,0 +1,9 @@
+pytorch  >= 1.2.0
+nvidia apex 0.1
+transformer 2.3.0
+sentence_transformer
+gensim
+nltk
+numpy
+spacy
+scipy
